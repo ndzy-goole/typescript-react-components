@@ -1,5 +1,7 @@
 # typescript-react-components
 
+git merge --no-ff dev
+
 # 支持 antd
 
 yarn add antd react-app-rewired customize-cra babel-plugin-import less less-loader@5.0.0 node-sass @ant-design/icons
